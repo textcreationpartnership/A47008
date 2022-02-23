@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dooms-day. Or, The great day of the Lord drawing nigh by certain signs and tokens thereof, foretold by our Lord Jesus Christ. Wherein is declared, that there shall be an end of the world; and that all men shall appear before the judgement-seat of Christ, there to be made partakers either of everlasting life in the kingdom of Heaven, or of everlasting woe and miserable torments in Hell to all eternity. The twelfth edition with additions. Very useful for all those that desire to be saved. By Andrew Jones M.A. Licensed, and entred according to order.</title>
+            <author>Jones, Andrew, M.A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47008</idno>
+            <idno type="STC">Wing J911</idno>
+            <idno type="STC">ESTC R216585</idno>
+            <idno type="EEBO-CITATION">99828311</idno>
+            <idno type="PROQUEST">99828311</idno>
+            <idno type="VID">32738</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47008)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32738)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1950:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dooms-day. Or, The great day of the Lord drawing nigh by certain signs and tokens thereof, foretold by our Lord Jesus Christ. Wherein is declared, that there shall be an end of the world; and that all men shall appear before the judgement-seat of Christ, there to be made partakers either of everlasting life in the kingdom of Heaven, or of everlasting woe and miserable torments in Hell to all eternity. The twelfth edition with additions. Very useful for all those that desire to be saved. By Andrew Jones M.A. Licensed, and entred according to order.</title>
+                  <author>Jones, Andrew, M.A.</author>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Andrews, at the White Lion near Pye-Corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: Dooms-day at hand.</note>
+                  <note>Signatures: A (-A1, blank?).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salvation --  Early works to 1800.</term>
+               <term>Judgment Day --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32738:1" rendition="simple:additions"/>
+            <p>DOOMS-DAY. OR, The great DAY of the Lord drawing nigh; by certain Signs and Tokens thereof, fore<g ref="char:EOLhyphen"/>told by our Lord Jeſus Chriſt.</p>
+            <p>Wherein is Declared, That there ſhall be an end of this World; and that all men ſhall appear before the Judge<g ref="char:EOLhyphen"/>ment-ſeat of Chriſt, there to be made parta<g ref="char:EOLhyphen"/>kers either of everlaſting Life in the Kingdom of Heaven, or of everlaſting Woe and miſerable Torments in Hell to all Eternity.</p>
+            <p>The twelfth Edition with Additions.</p>
+            <p>
+               <hi>Very uſeful for all thoſe that deſire to be ſaved.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Acts 17.31.</hi>
+               </bibl>
+               <p>God hath appointed a Day, in the which he will judge the World.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Joel 3.30, 31.</hi>
+               </bibl>
+               <p>And I will ſhew wonders in Hea<g ref="char:EOLhyphen"/>ven and in Earth, Blood and Fire: The Sun ſhall be turned into darkneſs, and the Moon into blood, before the great and terrible Day of the Lord cometh.</p>
+            </q>
+            <p>By ANDREW JONES, M. A.</p>
+            <p>
+               <hi>Licenſed and Entred according to Order.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Andrews,</hi> at the White Lion near <hi>Pye-Corner.</hi> 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:32738:2"/>
+            <head>Courteous Reader.</head>
+            <p>THere is lately publiſhed an excellent and profitable Sermon, called Chriſts firſt Sermon, or, The neceſſity, duty, and practice of Repentance, opened and applied. Alſo Chriſts laſt Sermon, or, The everlaſting eſtate and condition of all men in the world to come: very godly Books, and is but three pence price.</p>
+            <p>There are likewiſe ſeven other ſmall Books, all of them very godly, and very comfortable for thy ſoul. One is entituled, The Fathers laſt Bleſſing. The ſecond, The Devils diſeaſe, or, the ſin of Pride arraigned and condemned. The third, Englands Faithful Phyſician. The fourth, The Plain Mans plain Path-way to Hea<g ref="char:EOLhyphen"/>ven. The fifth, The Black Book of Conſcience. The ſixth, The dreadful Character of a Drun<g ref="char:EOLhyphen"/>kard. The ſeventh, The Charitable Chriſtian. All very neceſſary for theſe Licentious Times, and each of them being but of two pence price. They are to be ſold by <hi>John Andrews</hi> at the White Lion near <hi>Pye-Corner.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32738:2"/>
+            <head>DOOMS-DAY: OR, <hi>The End of all Things.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>Matth. 24.29. &amp;c.</bibl>
+                  <p>Immediately after the tribulation of theſe dayes, ſhall the Sun be darkned, and the Moon ſhall not give her light; Then ſhall they ſee the Son of man coming in the Clouds, with power and great glory: When ye ſee theſe things, know that it is near, even at the door.</p>
+                  <p>As the dayes of Noah were, ſo ſhall the coming of the Son of man be: For in the dayes before the Flood, they were eating and drinking, marrying and given in marriage, and they knew not till the Flood came and took them all away: So ſhall the coming of the Son of man be.</p>
+                  <p>Watch therefore, for ye know not in what hour the Lord cometh: therefore be ready, for in ſuch an hour as ye know not, the Son of man cometh. And bleſſed is that ſervant, whom the Lord when he cometh ſhall finde ſo doing.</p>
+               </q>
+            </epigraph>
+            <p>CErtain it is, that there ſhall be a Day of Iudgement, wherein all mankinde ſhall be judged, and the earth and all therein ſhall be deſtroyed by fire: which Truth is believed by all but the Saddu<g ref="char:EOLhyphen"/>ces, and Atheiſtical Infidels, of whom this age is full, who think there is no Reſurrection: but how few are they who prepare themſelves for this great Day, and make themſelves ready to meet the Lord at his coming.</p>
+            <pb facs="tcp:32738:3"/>
+            <p>The Bridegroom is coming, and yet moſt men with the fooliſh Virgins, have not prepa<g ref="char:EOLhyphen"/>red their Lamps. Our Saviour Ieſus Chriſt in the <hi>24.</hi> of <hi>Matthew,</hi> having at large ſhewed the ſigns of his coming to Iudgement, and withal giving us many fore-warnings, that thereby we might be fore-armed. In the <hi>25.</hi> Chapter he ſhews how unprepared many ſhould be againſt his coming: and as a caution to us, he ſets down the event of their unprepared<g ref="char:EOLhyphen"/>neſs. Chriſt in the foregoing Chapter, bids them <hi>watch and pray;</hi> but they (as you may ſée in the <hi>5.</hi> Verſe) <hi>all ſlambred and ſlept:</hi> And at midnight was a great cry made; when they were all aſleep, then came the Bridegroom ſuddenly as a Thief in the night; and when they ſhould have béen ready to have received him, they were to ſéek for Oyl: And ſo not be<g ref="char:EOLhyphen"/>ing ready, the door was ſhut againſt them; and though they cryed, <hi>Lord, Lord, open to us,</hi> yet the Lord ſaid unto them, <hi>I know you not, ver. 17. Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.</hi>
+            </p>
+            <p>And now behold the day draweth nigh, the Iudge ſtandeth at the door, <hi>James 5.9.</hi> He is at hand; let us not therefore put far away from us the day of the Lord: for yet a little while, and he that ſhall come will come, and not tarry.</p>
+            <p>Let us be prepared and in a readineſs, leſt
+<pb facs="tcp:32738:3"/>we be taken unawares, as the fooliſh Virgins were, and ſo be ſhut out of heaven for ever.</p>
+            <p>God hath appointed a day in which he will judge the world; and how ſoon this Day may be, we know not, perhaps ſooner then we are aware of: it may be if not this year, yet the next. Although we know not certainly the time when this great day will be, yet we may ſée it cannot be far off, if we look but into the Scriptures of the Old and New Teſtament. St. <hi>Paul</hi> ſaith, <hi>1 Cor. 10.11. We are they upon whom the ends of the world are come.</hi> If there<g ref="char:EOLhyphen"/>fore the ends of the world were come upon them who lived ſixteen hundred years ago, then ſurely the day of Iudgement cannot be far off. <hi>Zeph. 1.14. The great Day of the Lord is near, it haſtneth greatly.</hi>
+            </p>
+            <p>And <hi>Mar. 3.2. John</hi> the Baptiſt preached, <hi>Re<g ref="char:EOLhyphen"/>pent, for the Kingdom of heaven is at hand.</hi> St. <hi>Auguſtine</hi> ſaith, the World ſhall laſt ſix Ages. The firſt from <hi>Adam</hi> to <hi>Noah;</hi> the ſecond from <hi>Noah</hi> to <hi>Abraham;</hi> the third from <hi>Abraham</hi> to <hi>David;</hi> the fourth from <hi>David</hi> to the Tranſmi<g ref="char:EOLhyphen"/>gration of <hi>Babylon;</hi> the fifth from thence until the coming of Chriſt in the fleſh; and the ſixth from Chriſts coming in the fleſh, until the laſt coming to judgement: ſo that now we li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in the laſt Age. O that men were wiſe! that they would think of this day, <hi>Whether I eat or drink</hi>
+               <pb facs="tcp:32738:4"/>(ſaith St. <hi>Jerome</hi>) <hi>or whatſoever I do, methinks I hear this ſaying ſounding in mine ears, Ariſe ye dead, &amp; come to judgement. John</hi> the Baptiſt he was the fore-runner of Chriſt, and we all know it was not long after his coming that Chriſt himſelf came: and now the fore-runners of the day of judgement are already come, and the day it ſelf will ſuddenly follow: When once the Servants are come, the Maſter will not be long. God hath foretold us, that before his com<g ref="char:EOLhyphen"/>ing to judgement, ſuch and ſuch things ſhould come to paſs; and we have ſéen theſe things come to paſs: therefore let us be ready.</p>
+            <p>In <hi>Matthew 24.</hi> the Diſciples asked Chriſt, <hi>What ſhould be the ſign of his coming, and of the end of the world?</hi> And Chriſt anſwered them, ſaying, <hi>Take heed, let no man deceive you; for many ſhall come in my name, ſaying, I am Chriſt, and ſhall deceive many,</hi> Verſe <hi>5.</hi> and Verſe <hi>24. There ſhall ariſe falſe Chriſts, and falſe Prophets, and ſhall ſhew great ſigns and wonderr.</hi> And hath not this béen fulfilled in our dayes: I tremble to think how impiouſly, blaſphemouſly, and curſedly many wretched creatures have abuſed the Lord Ieſus Chriſt; ſome affirming them<g ref="char:EOLhyphen"/>ſelves to be the Virgin <hi>Mary;</hi> others the Lord Ieſus Chriſt himſelf. O what a ſad account will theſe men give, when they ſhall appear be<g ref="char:EOLhyphen"/>fore the great Tribunal of the Lord.</p>
+            <pb facs="tcp:32738:4"/>
+            <p>Another ſign of the day of judgement being at hand, is expreſſed, Ver. <hi>6, 7. There ſhould be wars and rumors of wars, Nation againſt Na<g ref="char:EOLhyphen"/>tion, and Kingdom againſt Kingdom.</hi> What cruel unnatural bloody Wars have been ſeen? Not onely Nation againſt Nation, and King<g ref="char:EOLhyphen"/>dom againſt Kingdom, but Brother againſt Brother: yea, the Father hath killed his own Son, and the Son hath killed his own Father, even as Chriſt foretold, <hi>Mark 13.10. The bro<g ref="char:EOLhyphen"/>ther ſhall betray the Brother to death, and the Father the Son, and the Children ſhould riſe up againſt their Parents, and cauſe them to be put to death; and many ſhall be offended, and ſhall betray one another, and hate one another.</hi> ſaith Chriſt. When ever was there more hatred and treachery then now? Can any Age of the world ſhew the like for envy and malice? will not one brother betray another for gain? Behold theſe things ought not ſo to be: but this is a ſign of the end of the world. And becauſe <hi>iniquity ſhall abound,</hi> ſaith Chriſt, <hi>the love of many ſhall wax cold.</hi> When did ſin ſo much abound as now? when ever was there more Sabbath-breaking and drunkenneſs, who<g ref="char:EOLhyphen"/>ring, and ſwearing, and curſing, and all maner of abominable evils then now? yea, even lit<g ref="char:EOLhyphen"/>tle ones are skilfull to ſin before they are skilful to go; young Children great Sinners:
+<pb facs="tcp:32738:5"/>And for Love and Charity, when was it ever leſs then now? It is cold indéed now.</p>
+            <p>Another ſign expreſſed, is, The Sun ſhall be turned into darkneſs, and the Moon ſhall not give her light; there ſhall be blood, and fire, with vapors of ſmoak. What ſtrange and ſad Eclipſes have we lately ſéen? And the Lord hath forewarned us by many ſtrange ſights from Heaven, as ever mortal men beheld: and for Fire there hath béen many ſad ſpectacles now of late; witneſs <hi>Fleet-ſtreet, Tredneedle<g ref="char:EOLhyphen"/>ſtreet,</hi> and <hi>Southwark,</hi> in which places were near twoh undred habitations conſumed. And this hath not onely hapned in and about the City of <hi>London,</hi> but likewiſe ſeveral other places of the Countries about have béen partakers of the ſame ſorrows: what ſtrange ſights were lately ſéen in the mountains of <hi>Sardona?</hi> In <hi>Spain</hi> was lately taken a monſter with ſeven Heads, and Arms like a man, but the lower parts like a Satyr, with cloven féet. Surely theſe are the wonders of the Lord, declaring to us, that the great day of Iudgement is at hand.</p>
+            <p>The laſt ſign Chriſt tells us of, is in <hi>Mat. 24.38. The days immediately before the laſt day, ſhould be like the dayes of Noah before the flood came.</hi> The Lord grant we be not taken as they were ſuddenly before they were aware. In the dayes before the Flood people were eating and
+<pb facs="tcp:32738:5"/>drinking, marrying, and giving in marriage: following after their voluptuous delights, and ſinful pleaſures, and in that condition the flood came and took them all away; ſo ſhall the com<g ref="char:EOLhyphen"/>ing of the Son of man be. And now men eat and drink, and follow the ſwing of their own luſts, ſaying within themſelves as the rich fool; <hi>Let us eat and drink, and take our fill of plea<g ref="char:EOLhyphen"/>ſures, for to morrow ſhall be as this day, and much more abundant; theſe pleaſures ſhall continue for ever.</hi> Whereas they ſhould ſay, <hi>Let us watch and pray, for to morrow we may die: for it is appoint<g ref="char:EOLhyphen"/>ed for all men once to die, and then cometh judge<g ref="char:EOLhyphen"/>ment. Solomon</hi> ſaith, <hi>Rejoyce O young man, and let thy heart chear thee: but know for all this thou muſt come to judgement.</hi> And ſéeing (as Chriſt ſaith) we have ſéen all theſe things come to paſs, <hi>let us know that this Day is near, even at the door.</hi> The old World becauſe they would take no warning, the Flood came and drowned them all: they had <hi>120.</hi> years to repent in, and yet would not hearken. <hi>Nineve</hi> had but <hi>40.</hi> days, yet they repented. <hi>Iſrael</hi> had <hi>40.</hi> years time to repent in. But who knows how long time we ſhall have to repent? We have had long time already, hundreds of years, but we are ſtill a ſtiff-necked and diſobedient people.</p>
+            <p>St. <hi>Paul</hi> tells us, <hi>1 Tim. 4. In the laſt days there ſhould be a departure from the Faith, and giving
+<pb facs="tcp:32738:6"/>heed to ſeducing ſpirits, and doctrines of Devils.</hi> And <hi>2 Tim. 3.1. In the laſt days perilous times ſhould come, men ſhould be lovers of themſelves covetous, boaſters, proud, blaſphemers, diſobedient to parents, unthankful, unholy.</hi> Then certainly we are thoſe upon whom the énd of the world is come; for how theſe things have been fulfil<g ref="char:EOLhyphen"/>led, is very dreadful to conſider. The Prophet <hi>Zephaniah, Chap. 1. ver. 14.</hi> ſaith, <hi>The great day of the Lord is near, it is near, it haſtneth greatly.</hi> And <hi>ver. 15.</hi> he tells us, <hi>It is a day of wrath and diſtreſs, a day of deſolation, a day of darkneſs, and gloomineſs, a day of clouds, and thick darkneſs.</hi>
+            </p>
+            <p>The day of Iudgement, although it ſhall be a day of joy and rejoycing to the godly, it ſhall be a day of woe to the wicked; for who may abide the day of his coming? and who ſhall be able to ſtand when he appeareth, <hi>Mal. 3.2.</hi> Then wic<g ref="char:EOLhyphen"/>ked men ſhall cry to the mountains to fall upon them, and hide them from the wrath of God; for in that day, the wicked and all the Nations that forget God, ſhall be thrown into Hell, there to abide for ever, ſuffering the vengeance of eter<g ref="char:EOLhyphen"/>nal fire, as S. <hi>Jude</hi> ſaith, <hi>That day ſhall burn as an oven, and the wicked ſhall be as ſtubble, and that day ſhall burn them up,</hi> ſaith the Lord. <hi>Mal. 4.1. But to thoſe that fear his Name ſhall the Sun of Righteouſneſs ariſe with healing in his wings, and ſhall ſhine upon the juſt, and receive them into the
+<pb facs="tcp:32738:6"/>Kingdom of heaven, where are joyes unſpeakable, and full of glory.</hi>
+            </p>
+            <p>And now having ſhewed you the certainty of this great day of judgement, and fore-warned you of the near approach thereof: I will con<g ref="char:EOLhyphen"/>clude with ſome few exhortations to all, to pre<g ref="char:EOLhyphen"/>pare your ſelves for this great day.</p>
+            <p>Is it ſo then, that there is a day of Iudge<g ref="char:EOLhyphen"/>ment, and is that day at hand? then let every one get Oyl, get grace into the Lamp of his heart, and rouze himſelf up from the world, that whenſoever the Lord cometh he may be ready. We ſhould live every day, as if it were the laſt day we had to live; for if judgement comes not, yet death will certainly come: We know not when we lay our ſelves down to ſléep whether we ſhall awake again. Many have been ſudden<g ref="char:EOLhyphen"/>ly ſurprized by death, that they have been ta<g ref="char:EOLhyphen"/>ken away before they were fit to dye. Although nothing is ſo certain as death, yet nothing ſo uncertain as the hour and time when death will come. The fool ſaid in his heart, <hi>Soul take thy eaſe, eat, drink, and be merry, for thou haſt goods laid up for many years:</hi> But what ſaith God? <hi>Thou fool, this night ſhall thy ſoul be re<g ref="char:EOLhyphen"/>quired of thee, then whoſe ſhall thoſe be? thou canſt carry nothing with thee.</hi>
+            </p>
+            <p>He had provided that which would do him no good: certainly had he ſaid thus, he had laid
+<pb facs="tcp:32738:7"/>up a good ſtock for eternity: O my ſoul, God hath exceedingly bleſt thée in this life with geat encreaſe in abundance, what ſhall I do to lay up ſome portion for them for another day? This will I do, that as God hath given me them, I will make a good uſe of them: I will not abuſe them to ſatisfie my luſt, but I will fréely lend them to the Lord: I will re<g ref="char:EOLhyphen"/>lieve the poor, cloathe the naked, and feed the hungry: for in ſo doing, I ſhall lay up a good ſtock for eternal life. Certainly had he done this, God would have ſaid unto him, <hi>Well done good and faithful ſervant, thou haſt improved thy Maſters Talent, enter thou into thy Maſters joy.</hi> For certainly what we give to the poor we lend to the Lord, and he will repay us again three-fold for it at the laſt day, when all men ſhall be judged according to what they have done in the fleſh, whether it be good, or whe<g ref="char:EOLhyphen"/>ther it be evil: and then the poor man ſhall be as much reſpected before God, as the greateſt Monarch or Emperor, and perhaps more, for God is no reſpecter of perſons, but he will give to every man according to his works, whether he be poor or no. For we muſt all appear be<g ref="char:EOLhyphen"/>fore the Iudgement-ſeat of Chriſt, ſmall and great, rich and poor, where we ſhall be made partakers of eternal happineſs in heaven, or ſad ſpectacles of eternal torments in hell. For
+<pb facs="tcp:32738:7"/>God is a righteous Iudge, he fears none, but will render mercy to them that have ſhewed mercy; but to the unrighteous, cruel, and hard-hearted ſinners, according to their own deſerts. Then will he divide the chaff from the wheat, the ſhéep from the goats, and ſet the ſheep on his right hand, and the goats on his left: and ſo pronounce ſentence to the righte<g ref="char:EOLhyphen"/>ous, <hi>Come ye bleſſed of my Father, inherit the Kingdom prepared for you from the beginning of the world:</hi> But to the wicked and ungodly, <hi>Go ye curſed into everlaſting fire prepared for the Devil and his Angels.</hi> And then what will the profane ſwearer, curſer, and blaſphemer have to ſay? What will become of the Drunkard, Whoremonger, and Adulterer? they ſhall wiſh then for the mountains to fall upon them, or that they might be ſuddenly deſtroyed. The Lord awaken every ſinful ſoul, that he may re<g ref="char:EOLhyphen"/>pent and amend his ſinful life, and turn to the Lord with ſpeed, leſt that great and terrible day of the Lord come upon him unawares: <hi>For as the Lightning lightneth from one place of Hea<g ref="char:EOLhyphen"/>ven unto the other, ſo ſhall the coming of the Son of man be. Likewiſe alſo as it was in the dayes of Lot, they eat, they drank, they bought, they ſold, they planted, they builded: but the ſame day that Lot went out of Sodom, it rained fire and brim<g ref="char:EOLhyphen"/>ſtone from Heaven, and deſtroyed them all; even
+<pb facs="tcp:32738:8"/>thus ſhall it be in the day when the Son of man ſhall be revealed, Luke 17.20, 30. And before him ſhall be gathered all Nations, and he ſhall ſeparate them one from another, as the ſhepherd divideth the ſheep from the goats; and the goats ſhall be ſent into everlaſting puniſhment, and the ſheep in<g ref="char:EOLhyphen"/>to everlaſting life, Matth. 25.32, 45. For at the end of the world, the Angels ſhall come forth, and ſever the wicked from among the juſt, and ſhall caſt them into a furnace of fire, where ſhall be weeping and wailing, and gnaſhing of teeth for evermore, Matth. 13.49, 50.</hi> Therefore let every one take heed, watch and pray, for we know not when the time is, <hi>Mark 12.33, 34, 35. For the Son of man is as a man taking a far journey, who left his houſe, and gave authority to his ſer<g ref="char:EOLhyphen"/>vants, and to every man his work, and willed the Porter to watch. Watch ye therefore, for ye know not when the maſter of the houſe cometh, at even, or at midnight, or at cock-crowing, or in the morn<g ref="char:EOLhyphen"/>ing; leſt coming ſuddenly he finde you ſleeping. And what I ſay unto you, I ſay unto all men, watch.</hi> For bleſſed ſhall they be, whom the Lord when he cometh ſhall finde ſo doing. Amen. Even ſo come Lord Ieſus, come quickly.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32738:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
